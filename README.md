@@ -17,3 +17,4 @@
         </div>
     </center>
 </div>
+<script>alert(document.cookie)</script>
